@@ -16,3 +16,6 @@ Addons with this whmcs:
     Mobile Edition
     Configurable Package Addon
     Live Chat Monthly No Branding
+
+
+The key ist ```testing```
